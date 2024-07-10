@@ -35,9 +35,9 @@ body:
       label: Request type
       description: What kind of icon or element do you have in mind?
       options:
+        - ✨ New icon
         - 😄 Emoji (please provide Unicode code point)
         - 🧙 Wizard modifier
-        - ✨ New icon
         - 🔧 Icon improvement
         ## - 🧱 Element (save this for the future)
       default: 0
